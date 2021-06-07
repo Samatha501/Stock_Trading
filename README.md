@@ -1,2 +1,2 @@
 # Stock_Trading
-Identifying type of time series using Hurst component
+Identifying the stock, whether it belongs to any kind of time series such as Trending, Mean Reversion and Random Walk using Hurst component
